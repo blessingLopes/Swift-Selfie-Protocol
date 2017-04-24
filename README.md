@@ -1,5 +1,7 @@
 # Swift2.0+
 
+// this is a pull
+
 Consider two Swift objects A and B:
 
 ```swift
